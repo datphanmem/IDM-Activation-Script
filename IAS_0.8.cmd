@@ -181,11 +181,11 @@ set _status=Status_Unclear
 set _col=%_Yellow%
 )
 
-call :_color2 %_White% "        " %_Green% "  Create By Piash"
+call :_color2 %_White% "        " %_Green% "  Edited By DatPhanMem"
 echo:          _____________________________________________   
 echo: 
-echo:          Telegram: @ModByPiash
-echo:          Github: https://github.com/lstprjct
+echo:          Youtube: @DatPhanMem
+echo:          Github: https://github.com/datphanmem
 echo:          _____________________________________________   
 echo:                                                          
 echo:          [1] Activate IDM                                
@@ -377,7 +377,7 @@ echo:
 echo:
 timeout /t 3
 
-start https://github.com/lstprjct/IDM-Activation-Script
+start https://youtube.com/@datphanmem
 goto MainMenu
 
 ::========================================================================================================================================
@@ -875,9 +875,9 @@ _________________________________
 
    IDM Activation Script
    
-   Homepage:	https://github.com/lstprjct/IDM-Activation-Script
+   Homepage:	https://datphanmem.com
    
-   Telegram:	https://t.me/ModByPiash
+   Youtube:	https://youtube.com/@datphanmem
 
 __________________________________________________________________________________________________
 :txt:
