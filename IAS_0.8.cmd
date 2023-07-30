@@ -185,7 +185,7 @@ call :_color2 %_White% "        " %_Green% "  Edited By DatPhanMem"
 echo:          _____________________________________________   
 echo: 
 echo:          Youtube: @DatPhanMem
-echo:          Github: https://github.com/datphanmem
+echo:          Website: DatPhanMem.Com
 echo:          _____________________________________________   
 echo:                                                          
 echo:          [1] Activate IDM                                
